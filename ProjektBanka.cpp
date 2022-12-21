@@ -6,7 +6,7 @@ using namespace std;
  int main () {
  int JarmilaHeslo = 5678;
  int JamalHeslo = 6666;
- int PepeHeslo = 1234;
+ int PepeHeslo = 1234;//tohle je int
  int x = 1234;
  int y = 5678;
  int z = 6666;
